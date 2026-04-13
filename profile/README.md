@@ -2,8 +2,6 @@
 
 <img src="/assets/logo_horizontal_sem_fundo.png" />
 
-# 🗺️ TripData
-
 ### *Decisões inteligentes baseadas em dados.*
 
 **Inteligência de dados para gestão de destinos turísticos — em tempo real.**
